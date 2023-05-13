@@ -1,0 +1,13 @@
+.beneficios {
+    background: #FFFFFF;
+    padding: 100px;
+}
+ul {
+    display: inline-block;
+    vertical-align: right;
+    width: 30%;
+    margin-right: 45%;
+}
+.imagembeneficios {
+    width: 50%;
+}
